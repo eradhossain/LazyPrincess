@@ -75,6 +75,6 @@ async def Lazy_start():
 if __name__ == '__main__':
     try:
         loop.run_until_complete(Lazy_start())
-        logging.info('-----------------------🧐 Service running in Lazy Mode 😴-----------------------')
+        logging.info('-----------------------🧐 Service running in EH_UnknownPerson 😴-----------------------')
     except KeyboardInterrupt:
-        logging.info('-----------------------😜 Service Stopped Sweetheart 😝-----------------------')
+        logging.info('-----------------------😜 Service Stopped 😝-----------------------')

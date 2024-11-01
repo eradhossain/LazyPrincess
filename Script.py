@@ -44,22 +44,19 @@ Here is the help for my COMMANDS."""
 ➪ Add me to your database channel as ADMIN and send me the last media from you db channel with quote. 
 
 🧬 How to set thumbnail for renaming media
-➪ Send me a photo and reply that photo with cmd /st or /set_thumb or /set_thumbnail
+➪ Send me a photo and reply that photo with cmd /st
 
 🧬 How to set thumbnail for URL Downloading
-➪ Send me a photo and reply that photo with cmd /slt or /set_lazy_thumb or /set_lazy_thumbnail
-
+➪ Send me a photo and reply that photo with cmd /slt 
 🧬 How to show normal thumbnail
-➪ Send /vt or /veiw_thumb or /view_thumbnail
+➪ Send /vt
 
 🧬 How to show url thumbnail
-➪ Send /vlt or /veiw_lazy_thumb or /view_lazy_thumbnail
-
+➪ Send /vlt
 🧬 How To Delete normal Thumbnail
-➪ Send /dt or /del_thumb or /delete_thumb
-
+➪ Send /dt 
 🧬 How To Delete URL Thumbnail
-➪ Send /dlt or /del_lazy_thumb or /delete_lazy_thumb
+➪ Send /dlt
 
 🧬 How to Rename any Media
 ➪ Send me a video or document i will provide you renaming function
